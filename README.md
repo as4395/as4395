@@ -1,5 +1,1 @@
-- 👋 Hi
-- 👀 I’m interested in Computer Science and Engineering
-- 🌱 I’m currently learning/working on Javascript and R
-- 💞️ I’m looking to collaborate on Microsoft events
-- 📫 Email: abhi6945@gmail.com
+
