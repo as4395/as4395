@@ -19,7 +19,7 @@
 - Conducting web application and API assessments to identify common vulnerabilities such as XSS and IDOR  
 - Participating in bug bounty platforms to strengthen practical vulnerability research skills  
 - Exploring privacy issues, intelligence policy, and surveillance ethics through coursework and personal interest
-🗣️ **Looking to Collaborate On**:  
+- 🗣️ **Looking to Collaborate On**:  
 - Capture-the-flag competitions and challenge platforms like HTB and TryHackMe  
 - Security writeups, walkthroughs, and knowledge sharing  
 - Collaborative labs or challenges focused on real-world attack scenarios
