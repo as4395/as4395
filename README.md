@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abhiram S. 👋</h1>
 <p align="center">
-  
+  IT Major · Cybersecurity Enthusiast
 </p>
 
 <p align="center">
@@ -13,12 +13,16 @@
 
 ## 🧑‍💻 About Me
 
-
-
 - 🎓 **Major**: Information Technology  
-- 🧠 **Focus**: 
+- 🧠 **Focus**: Threat intelligence, security research, cloud security, data analyis
 - 🌐 **Current Projects**:  
-- 🗣️ **Looking to Collaborate On**: 
+- Conducting web application and API assessments to identify common vulnerabilities such as XSS and IDOR  
+- Participating in bug bounty platforms to strengthen practical vulnerability research skills  
+- Exploring privacy issues, intelligence policy, and surveillance ethics through coursework and personal interest
+🗣️ **Looking to Collaborate On**:  
+- Capture-the-flag competitions and challenge platforms like HTB and TryHackMe  
+- Security writeups, walkthroughs, and knowledge sharing  
+- Collaborative labs or challenges focused on real-world attack scenarios
 
 ---
 
@@ -52,7 +56,6 @@
 
 ## 🚀 Goals
 
-- 🌱   
-- 📚  
-- ✍️  
-- 💼 
+- 🧱 Build a functional homelab with virtual machines to practice networking, OS fundamentals, and offensive/defensive techniques  
+- ⚙️ Improve scripting and automation skills using Python, Bash, and PowerShell in real-world security workflows  
+- ☁️ Gain hands-on experience with cloud platforms and virtualization for malware sandboxing, honeypots, and cert prep
