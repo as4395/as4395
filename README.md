@@ -54,7 +54,7 @@
 ## 📊 GitHub Stats
 
 <!-- Main GitHub Stats Card with purple accent -->
-![as4395's GitHub Stats](https://github-readme-stats.vercel.app/api?username=as4395&show_icons=true&hide=prs&count_private=true&title_color=ce09ec&icon_color=007ec6&text_color=c9d1d9&bg_color=0d1117&border_radius=10&border_color=ffffff)
+![as4395's GitHub Stats](https://github-readme-stats.vercel.app/api?username=as4395&show_icons=true&hide=prs,contribs&count_private=true&title_color=ce09ec&icon_color=007ec6&text_color=c9d1d9&bg_color=0d1117&border_radius=10&border_color=ffffff)
 
 <!-- GitHub Streak Card with orange accents -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=as4395&theme=github-dark&ring=ff9d00&fire=ff9d00&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&border_radius=10)
