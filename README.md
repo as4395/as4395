@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS">
@@ -42,7 +41,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat" alt="REST APIs">
-  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=flat&logo=api&logoColor=white" alt="RESTful APIs">
   <img src="https://img.shields.io/badge/Packet%20Tracer-1A73E8?style=flat" alt="Packet Tracer">
   <img src="https://img.shields.io/badge/Nmap-00467C?style=flat&logo=nmap&logoColor=white" alt="Nmap">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF7139?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite">
