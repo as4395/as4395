@@ -4,9 +4,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhiram-singireddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:abhiram.singireddy@rutgers.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-informational?style=flat&logo=linux&logoColor=white">
+  <a href="https://www.linkedin.com/in/abhiram-singireddy/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abhiram.singireddy@rutgers.edu">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
@@ -20,10 +23,10 @@
   - Participating in bug bounty platforms to strengthen practical vulnerability research skills  
   - Exploring privacy issues, intelligence policy, and surveillance ethics through coursework and personal interest
 - 🗣️ **Looking to Collaborate On**:  
-  - Capture-the-flag competitions and challenge platforms like HTB and TryHackMe  
-  - Security writeups, walkthroughs, and knowledge sharing  
-  - Collaborative labs or challenges focused on real-world attack scenarios
-
+  - Capture-the-Flag competitions and challenge platforms like Hack The Box and TryHackMe
+  - Security writeups and walkthroughs to share knowledge
+  - Hands-on labs or challenges focused on real-world attack and defense scenarios
+    
 ---
 
 ## ⚙️ Languages & Tools
@@ -42,11 +45,10 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs">
   <img src="https://img.shields.io/badge/Packet%20Tracer-1A73E8?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer">
-  <img src="https://img.shields.io/badge/Nmap-00467C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Nmap-00467C?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF7139?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/OWASP%20ZAP-033037?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP">
 </p>
-
 
 ---
 
