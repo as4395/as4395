@@ -1,0 +1,23 @@
+name: GitHub Metrics
+
+on:
+  schedule: [{ cron: "0 * * * *" }]  # runs every hour
+  workflow_dispatch:                # allows manual run
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin:activity: yes
+          plugin:activity.limit: 5
+          plugin:activity.days: 14
+          plugin:activity.filter: all
+          plugin:activity.visibility: all
+          plugin:activity.timestamps: true
+          plugin:activity.sections: activity, community
+          config.timezone: America/New_York
